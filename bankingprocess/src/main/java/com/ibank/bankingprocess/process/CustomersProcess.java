@@ -5,17 +5,17 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.*;
+import java.util.concurrent.CompletableFuture;
 import java.util.stream.Stream;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 import com.ibank.bankingprocess.dto.CustomerInputDTO;
-import com.ibank.bankingprocess.process.error.ErrorLogger;
 import com.ibank.bankingprocess.service.CustomersService;
 import com.ibank.bankingprocess.utils.EncryptionUtil;
+import com.ibank.bankingprocess.process.error.ErrorLogger;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validator;
-
 
 @Component
 public class CustomersProcess {
@@ -29,21 +29,30 @@ public class CustomersProcess {
     @Autowired
     private ErrorLogger errorLogger;
 
+
     @Async
-    public void processFile(String accountCsv) {
+    public CompletableFuture<Void> processFile(String customersCsv) {
 
-        try (Stream<String> lines = Files.lines(Paths.get(accountCsv))) {
-            lines.skip(1).parallel().forEach(line -> this.processLine(line, accountCsv));
-
+        try (Stream<String> lines = Files.lines(Paths.get(customersCsv))) {
+            lines.skip(1).parallel().forEach(line -> this.processLine(line, customersCsv));
         } catch (IOException e) {
             e.printStackTrace();
         }
+        return CompletableFuture.completedFuture(null);
     }
 
-    private void processLine(String line, String fileName) {
+    public void processLine(String line, String fileName) {
         String[] fields = line.split(",");
+
         try {
             int recordNumber = Integer.parseInt(fields[0]);
+            if (fields.length != 9
+                    || Arrays.stream(fields).anyMatch(field -> field.trim().isEmpty())) {
+                logErrorshand(fileName, recordNumber, "NULL_FIELD", "Field",
+                        "One or more fields are null or contain only spaces.");
+                return;
+            }
+
             String name = fields[1];
             String surname = fields[2];
             String nationalId = fields[3];
@@ -62,7 +71,7 @@ public class CustomersProcess {
             customer.setCity(city);
             customer.setZipCode(zipCode);
             customer.setCustomerId(customerId);
-            // Validate the customer object
+
             Set<ConstraintViolation<CustomerInputDTO>> violations = validator.validate(customer);
 
             if (!violations.isEmpty()) {
@@ -73,9 +82,8 @@ public class CustomersProcess {
                 customer.setSurname(EncryptionUtil.encrypt(surname));
                 customersService.customerInsertion(customer);
             }
-        } catch (
 
-        Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -94,4 +102,12 @@ public class CustomersProcess {
         errorLogger.logErrors(errorList);
     }
 
+    private void logErrorshand(String fileName, int recordNumber, String errorCode,
+            String errorClassificationName, String errorDescription) {
+        Map<String, Object> errorDetails = errorLogger.createErrorDetails(fileName, recordNumber,
+                errorCode, errorClassificationName, errorDescription);
+        List<Map<String, Object>> errorList = new ArrayList<>();
+        errorList.add(errorDetails);
+        errorLogger.logErrors(errorList);
+    }
 }

@@ -1,36 +1,21 @@
 package com.ibank.bankingprocess.dto;
 
 import java.time.LocalDate;
-import org.springframework.format.annotation.DateTimeFormat;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
-import jakarta.validation.constraints.Past;
-import jakarta.validation.constraints.Pattern;
+import com.ibank.bankingprocess.validation.ValidAge;
+import com.ibank.bankingprocess.validation.ValidNationalId;
 
 public class CustomerInputDTO {
 
-    @NotBlank
-    @NotNull
     private Long customerId;
 
-    @NotBlank
-    @NotNull
     private String name;
 
-    @NotBlank
-    @NotNull
     private String surname;
 
-    @NotBlank
-    @NotNull
-    @Pattern(regexp = "\\d{10}", message = "accountNumber must be exactly 10 digits")
+    @ValidNationalId
     private String nationalId;
 
-    @NotBlank
-    @NotNull
-    @DateTimeFormat(pattern = "yyyy-MM-dd")
-    @Pattern(regexp = "\\d{4}-\\d{2}-\\d{2}")
-    @Past(message = "accountCreationDate should be in the past")
+    @ValidAge
     private LocalDate dateOfBirth;
 
     private String street;
@@ -100,11 +85,5 @@ public class CustomerInputDTO {
     public void setCustomerId(Long customerId) {
         this.customerId = customerId;
     }
-
-
-    // @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)
-    // @JsonIgnore
-    // private Accounts account;
-
 
 }

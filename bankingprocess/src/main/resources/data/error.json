@@ -1,0 +1,253 @@
+[ {
+  "RECORD_NUMBER" : 5,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-19T20:46:00.036438",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 6,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-19T20:46:00.087082",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 6,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.0871",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 24,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.087166",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 24,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.087199",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 9,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.087091",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 9,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.08713",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 15,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-19T20:46:00.087116",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 15,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.087132",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 10,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.100516",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 10,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-19T20:46:00.100524",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 25,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.099721",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 7,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.099322",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 7,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.099331",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 23,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.102758",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 23,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.102765",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 14,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.101794",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 14,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.101801",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 16,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.101024",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 16,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.101031",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 12,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-19T20:46:00.105398",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 12,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.105405",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 2,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-19T20:46:00.103165",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 13,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.107919",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 13,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-19T20:46:00.107926",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 33,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.106867",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 33,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.106882",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 30,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.110523",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 30,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.110532",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 3,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-19T20:46:00.109257",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 27,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.112172",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 27,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.11218",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 4,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-19T20:46:00.113092",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 1,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-19T20:46:00.114976",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 34,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-19T20:46:00.116068",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 34,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBankf/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-19T20:46:00.116075",
+  "ERROR_CODE" : "ValidAge"
+}]
