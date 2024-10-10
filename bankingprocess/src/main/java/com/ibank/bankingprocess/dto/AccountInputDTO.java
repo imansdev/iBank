@@ -14,7 +14,7 @@ import jakarta.validation.constraints.Pattern;
 public class AccountInputDTO {
 
 
-    private Long customerId;
+    // private Long customerId;
 
     @NotBlank
     @NotNull
@@ -81,12 +81,12 @@ public class AccountInputDTO {
         this.accountCreationDate = accountCreationDate;
     }
 
-    public Long getCustomerId() {
-        return customerId;
-    }
+    // public Long getCustomerId() {
+    // return customerId;
+    // }
 
-    public void setCustomerId(Long customerId) {
-        this.customerId = customerId;
-    }
+    // public void setCustomerId(Long customerId) {
+    // this.customerId = customerId;
+    // }
 
 }
