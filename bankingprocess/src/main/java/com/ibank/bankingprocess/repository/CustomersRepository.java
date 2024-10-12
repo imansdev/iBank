@@ -5,4 +5,7 @@ import com.ibank.bankingprocess.model.Customers;
 
 public interface CustomersRepository extends JpaRepository<Customers, Long> {
 
+    boolean existsByCustomerId(Long customerId);
+
+    Customers findByCustomerId(Long customerId);
 }

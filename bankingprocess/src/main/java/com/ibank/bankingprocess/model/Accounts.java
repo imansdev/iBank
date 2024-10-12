@@ -34,9 +34,9 @@ public class Accounts {
     @Column(nullable = false, updatable = false)
     private LocalDate accountCreationDate;
 
-    // @ManyToOne
-    // @JoinColumn(name = "customer_id", nullable = false, referencedColumnName = "customerId")
-    // private Customers customer;
+    @ManyToOne
+    @JoinColumn(name = "customer_id", nullable = false, referencedColumnName = "customerId")
+    private Customers customer;
 
     public enum AccountType {
         SAVINGS, RD, FD
@@ -86,9 +86,9 @@ public class Accounts {
         return id;
     }
 
-    // public void setCustomer(Customers customer) {
-    // this.customer = customer;
-    // }
+    public void setCustomer(Customers customer) {
+        this.customer = customer;
+    }
 
     public void setId(Long id) {
         this.id = id;
@@ -98,7 +98,7 @@ public class Accounts {
     public String toString() {
         return "Accounts [id=" + id + ", accountNumber=" + accountNumber + ", accountBalanceLimit="
                 + accountBalanceLimit + ", accountType=" + accountType + ", balance=" + balance
-                + ", accountCreationDate=" + accountCreationDate + "]";
+                + ", accountCreationDate=" + accountCreationDate + ", customer=" + customer + "]";
     }
 
 }

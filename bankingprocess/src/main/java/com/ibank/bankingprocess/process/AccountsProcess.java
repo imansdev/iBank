@@ -47,11 +47,18 @@ public class AccountsProcess {
 
         try {
             int recordNumber = Integer.parseInt(fields[0]);
+            if (fields.length != 7
+                    || Arrays.stream(fields).anyMatch(field -> field.trim().isEmpty())) {
+                logErrorshand(fileName, recordNumber, "NULL_FIELD", "Field",
+                        "One or more fields are null or contain only spaces.");
+                return;
+            }
             String accountNumber = fields[1];
             Long accountBalanceLimit = Long.parseLong(fields[2]);
             String accountType = fields[3];
             String balance = fields[4];
             LocalDate accountCreationDate = LocalDate.parse(fields[5]);
+            Long customerId = Long.parseLong(fields[6]);
 
             AccountInputDTO account = new AccountInputDTO();
             account.setAccountNumber(EncryptionUtil.decrypt(accountNumber));
@@ -59,7 +66,9 @@ public class AccountsProcess {
             account.setAccountType(accountType);
             account.setAccountBalanceLimit(accountBalanceLimit);
             account.setAccountCreationDate(accountCreationDate);
+            account.setCustomerId(customerId);
 
+            // Validate the account object
             Set<ConstraintViolation<AccountInputDTO>> violations = validator.validate(account);
 
             if (!violations.isEmpty()) {
@@ -89,6 +98,15 @@ public class AccountsProcess {
             errorList.add(errorDetails);
         }
 
+        errorLogger.logErrors(errorList);
+    }
+
+    private void logErrorshand(String fileName, int recordNumber, String errorCode,
+            String errorClassificationName, String errorDescription) {
+        Map<String, Object> errorDetails = errorLogger.createErrorDetails(fileName, recordNumber,
+                errorCode, errorClassificationName, errorDescription);
+        List<Map<String, Object>> errorList = new ArrayList<>();
+        errorList.add(errorDetails);
         errorLogger.logErrors(errorList);
     }
 }

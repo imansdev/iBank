@@ -4,40 +4,31 @@ package com.ibank.bankingprocess.dto;
 
 import java.time.LocalDate;
 import org.springframework.format.annotation.DateTimeFormat;
+import com.ibank.bankingprocess.validation.ValidBalanceLimit;
+import com.ibank.bankingprocess.validation.ValidCustomerId;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Pattern;
 
 
-
+@ValidBalanceLimit
 public class AccountInputDTO {
 
+    @ValidCustomerId
+    private Long customerId;
 
-    // private Long customerId;
-
-    @NotBlank
-    @NotNull
     @Pattern(regexp = "\\d{22}", message = "accountNumber must be exactly 22 digits")
     private String accountNumber;
 
-    @NotBlank
-    @NotNull
     private Long accountBalanceLimit;
 
-    @NotBlank
-    @NotNull
     private String accountType;
 
-    @NotBlank
-    @NotNull
     private String balance;
 
-
-    @NotBlank
-    @NotNull
-    @DateTimeFormat(pattern = "yyyy-MM-dd")
-    @Pattern(regexp = "\\d{4}-\\d{2}-\\d{2}")
+    // @DateTimeFormat(pattern = "yyyy-MM-dd")
+    // @Pattern(regexp = "\\d{4}-\\d{2}-\\d{2}")
     @Past(message = "accountCreationDate should be in the past")
     private LocalDate accountCreationDate;
 
@@ -81,12 +72,12 @@ public class AccountInputDTO {
         this.accountCreationDate = accountCreationDate;
     }
 
-    // public Long getCustomerId() {
-    // return customerId;
-    // }
+    public Long getCustomerId() {
+        return customerId;
+    }
 
-    // public void setCustomerId(Long customerId) {
-    // this.customerId = customerId;
-    // }
+    public void setCustomerId(Long customerId) {
+        this.customerId = customerId;
+    }
 
 }
