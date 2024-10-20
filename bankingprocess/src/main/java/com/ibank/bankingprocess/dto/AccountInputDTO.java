@@ -1,16 +1,10 @@
 package com.ibank.bankingprocess.dto;
 
-
-
 import java.time.LocalDate;
-import org.springframework.format.annotation.DateTimeFormat;
 import com.ibank.bankingprocess.validation.ValidBalanceLimit;
 import com.ibank.bankingprocess.validation.ValidCustomerId;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Pattern;
-
 
 @ValidBalanceLimit
 public class AccountInputDTO {

@@ -94,6 +94,10 @@ public class Accounts {
         this.id = id;
     }
 
+    public Customers getCustomer() {
+        return customer;
+    }
+
     @Override
     public String toString() {
         return "Accounts [id=" + id + ", accountNumber=" + accountNumber + ", accountBalanceLimit="

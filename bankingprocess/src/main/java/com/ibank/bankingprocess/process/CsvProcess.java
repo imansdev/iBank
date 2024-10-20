@@ -17,7 +17,7 @@ public class CsvProcess {
     @Autowired
     private CustomersProcess customersProcess;
 
-    @Scheduled(cron = "0 */1 * * * ?")
+    @Scheduled(cron = "0 */15 * * * ?")
     public void readAndProcessFiles() throws Exception {
         try {
             CompletableFuture<Void> customerFuture = customersProcess.processFile(CustomerCsv);
