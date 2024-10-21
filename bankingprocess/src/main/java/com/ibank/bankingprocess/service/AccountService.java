@@ -1,14 +1,20 @@
 package com.ibank.bankingprocess.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import com.ibank.bankingprocess.dto.AccountInputDTO;
+import com.ibank.bankingprocess.dto.CustomerAccountOutDTO;
+import com.ibank.bankingprocess.exception.NoAccountsFoundException;
 import com.ibank.bankingprocess.model.Account;
 import com.ibank.bankingprocess.model.Customer;
 import com.ibank.bankingprocess.model.DecryptedAccount;
 import com.ibank.bankingprocess.repository.AccountRepository;
 import com.ibank.bankingprocess.repository.CustomerRepository;
 import com.ibank.bankingprocess.repository.DecryptedAccountRepository;
+import java.io.IOException;
+import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class AccountService {
@@ -21,6 +27,12 @@ public class AccountService {
 
     @Autowired
     private DecryptedAccountRepository decryptedAccountRepository;
+
+    @Autowired
+    private FileWriterFactory fileWriterFactory;
+
+    @Value("${balance.threshold}")
+    private Long balanceThreshold;
 
     public void accountInsertion(AccountInputDTO account) {
         Account newAccount = new Account();
@@ -49,19 +61,36 @@ public class AccountService {
         decryptedAccountRepository.save(decryptedAccount);
     }
 
-    // Fetch customer with balance greater than 1000 and map to DTOs
-    // public List<CustomerAccountOutDTO> getAccountWithBalanceGreaterThan1000() {
-    // List<Account> account = accountRepository.findAccountWithBalanceGreaterThan1000();
+    public List<CustomerAccountOutDTO> getCustomersWithSpecifiedBalance() {
+        List<DecryptedAccount> accounts =
+                decryptedAccountRepository.findByDecryptedBalanceGreaterThan(balanceThreshold);
 
-    // // Map the account to DTOs
-    // return account.stream().map(account -> {
-    // CustomerAccountOutDTO dto = new CustomerAccountOutDTO();
-    // dto.setCustomerId(account.getCustomer().getCustomerId());
-    // dto.setAccountType(account.getAccountType().name());
-    // dto.setBalance(account.getBalance());
-    // dto.setAccountCreationDate(account.getAccountCreationDate());
-    // dto.setAccountBalanceLimit(account.getAccountBalanceLimit());
-    // return dto;
-    // }).collect(Collectors.toList());
-    // }
+        return accounts.stream().map(account -> {
+            CustomerAccountOutDTO dto = new CustomerAccountOutDTO();
+            dto.setAccountNumber(account.getDecryptedAccountNumber());
+            dto.setCustomerId(account.getCustomer().getCustomerId());
+            dto.setBalance(account.getDecryptedBalance());
+            return dto;
+        }).collect(Collectors.toList());
+    }
+
+    // Method to save data to a file based on the format
+    public List<CustomerAccountOutDTO> saveToFile(String format) throws IOException {
+
+        List<CustomerAccountOutDTO> accounts = getCustomersWithSpecifiedBalance();
+
+        if (accounts == null || accounts.isEmpty()) {
+            throw new NoAccountsFoundException(
+                    "No customer's accounts were found with a balance greater than the "
+                            + balanceThreshold);
+        }
+
+        // Get the appropriate file writer using the factory
+        FileWriterStrategy fileWriter = fileWriterFactory.getFileWriter(format);
+
+        // Write the accounts to the file using the selected strategy
+        fileWriter.writeToFile(accounts);
+
+        return accounts;
+    }
 }

@@ -1,52 +1,74 @@
 {
   "info": {
-    "name": "Banking API",
-    "_postman_id": "12345-xxxx-xxxx-xxxx-1234567890",
-    "description": "Collection for banking API with JSON and XML endpoints",
+    "name": "iBank",
+    "_postman_id": "12345678-abcd-1234-abcd-1234567890ab",
+    "description": "Postman collection created to test the customer's accounts API with a specified balance, using different response formats (JSON and XML).",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "item": [
     {
-      "name": "Get Account List (JSON)",
+      "name": "Get Customers - JSON",
       "request": {
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/api/v1/accountlist/json",
+          "raw": "http://localhost:8080/api/v1/accountlist?format=json",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8080",
-          "path": [
-            "api",
-            "v1",
-            "accountlist",
-            "json"
+          "path": ["api", "v1", "accountlist"],
+          "query": [
+            {
+              "key": "format",
+              "value": "json"
+            }
           ]
-        }
+        },
+        "description": "Fetch customers with specified balance in JSON format."
       },
       "response": []
     },
     {
-      "name": "Get Account List (XML)",
+      "name": "Get Customers - XML",
       "request": {
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/api/v1/accountlist/xml",
+          "raw": "http://localhost:8080/api/v1/accountlist?format=xml",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8080",
-          "path": [
-            "api",
-            "v1",
-            "accountlist",
-            "xml"
+          "path": ["api", "v1", "accountlist"],
+          "query": [
+            {
+              "key": "format",
+              "value": "xml"
+            }
           ]
-        }
+        },
+        "description": "Fetch customers with specified balance in XML format."
+      },
+      "response": []
+    },
+    {
+      "name": "Get Customers - Invalid Format",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/api/v1/accountlist?format=csv",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "v1", "accountlist"],
+          "query": [
+            {
+              "key": "format",
+              "value": "csv"
+            }
+          ]
+        },
+        "description": "Attempt to fetch customers with an invalid format, expecting a 400 Bad Request."
       },
       "response": []
     }

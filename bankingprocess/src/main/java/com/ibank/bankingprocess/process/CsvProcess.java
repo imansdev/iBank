@@ -17,11 +17,10 @@ public class CsvProcess {
     @Autowired
     private CustomerProcess customerProcess;
 
-    @Scheduled(cron = "0 */1 * * * ?")
+    @Scheduled(cron = "0 */15 * * * ?")
     public void readAndProcessFiles() throws Exception {
         try {
             CompletableFuture<Void> customerFuture = customerProcess.processFile(CustomerCsv);
-
 
             customerFuture.get();
 
@@ -29,7 +28,6 @@ public class CsvProcess {
 
             accountFuture.get();
 
-            // CompletableFuture<Void> allFilesProcessed = CompletableFuture.allOf(customerFuture);
         } catch (Exception e) {
             e.printStackTrace();
             throw new RuntimeException("Error processing files: " + e.getMessage());

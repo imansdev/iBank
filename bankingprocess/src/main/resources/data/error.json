@@ -1,2073 +1,2073 @@
 [ {
   "RECORD_NUMBER" : 86,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.076144",
-  "ERROR_CODE" : "ValidNationalId"
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.0601",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 86,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.076183",
-  "ERROR_CODE" : "ValidAge"
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.060135",
+  "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 87,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.095132",
+  "ERROR_DATE" : "2024-10-21T16:29:00.076203",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 87,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.095155",
+  "ERROR_DATE" : "2024-10-21T16:29:00.076312",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 88,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.107941",
+  "ERROR_DATE" : "2024-10-21T16:29:00.088711",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 88,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.107953",
+  "ERROR_DATE" : "2024-10-21T16:29:00.088723",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 89,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.089528",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 89,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.10895",
+  "ERROR_DATE" : "2024-10-21T16:29:00.089539",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 89,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.108962",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
   "RECORD_NUMBER" : 90,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.110168",
+  "ERROR_DATE" : "2024-10-21T16:29:00.090546",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 90,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.110181",
+  "ERROR_DATE" : "2024-10-21T16:29:00.09056",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 91,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.111444",
+  "ERROR_DATE" : "2024-10-21T16:29:00.091635",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 91,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.111457",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 92,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.112618",
+  "ERROR_DATE" : "2024-10-21T16:29:00.091647",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 92,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.112633",
+  "ERROR_DATE" : "2024-10-21T16:29:00.092643",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 93,
+  "RECORD_NUMBER" : 92,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.114204",
+  "ERROR_DATE" : "2024-10-21T16:29:00.092666",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 93,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.114517",
+  "ERROR_DATE" : "2024-10-21T16:29:00.093761",
   "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 93,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.09399",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 94,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.115843",
+  "ERROR_DATE" : "2024-10-21T16:29:00.094981",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 94,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.115857",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 95,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.117412",
+  "ERROR_DATE" : "2024-10-21T16:29:00.094993",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 95,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.117509",
+  "ERROR_DATE" : "2024-10-21T16:29:00.095985",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 96,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "RECORD_NUMBER" : 95,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.119098",
-  "ERROR_CODE" : "ValidNationalId"
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.095995",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 96,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.11911",
+  "ERROR_DATE" : "2024-10-21T16:29:00.097521",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 96,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.097641",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 97,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.099112",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 97,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.120651",
+  "ERROR_DATE" : "2024-10-21T16:29:00.099124",
   "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 97,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.120662",
-  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 98,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.122328",
+  "ERROR_DATE" : "2024-10-21T16:29:00.100407",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 98,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.12234",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 99,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.12404",
+  "ERROR_DATE" : "2024-10-21T16:29:00.10043",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 99,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.124052",
+  "ERROR_DATE" : "2024-10-21T16:29:00.101862",
   "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 99,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.101876",
+  "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 100,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.125943",
+  "ERROR_DATE" : "2024-10-21T16:29:00.103308",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 100,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.125957",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 79,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.135565",
+  "ERROR_DATE" : "2024-10-21T16:29:00.103321",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 79,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.13559",
+  "ERROR_DATE" : "2024-10-21T16:29:00.110926",
   "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 79,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.110939",
+  "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 80,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.137405",
+  "ERROR_DATE" : "2024-10-21T16:29:00.112631",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 81,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.114095",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 81,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.138655",
+  "ERROR_DATE" : "2024-10-21T16:29:00.114107",
   "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 81,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.138666",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 82,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.139728",
-  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 82,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.139742",
+  "ERROR_DATE" : "2024-10-21T16:29:00.115271",
   "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 82,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.115282",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 83,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.140911",
+  "ERROR_DATE" : "2024-10-21T16:29:00.116437",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 83,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.140922",
+  "ERROR_DATE" : "2024-10-21T16:29:00.11645",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 84,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.142066",
+  "ERROR_DATE" : "2024-10-21T16:29:00.118186",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 85,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.142986",
+  "ERROR_DATE" : "2024-10-21T16:29:00.119588",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 85,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.143001",
+  "ERROR_DATE" : "2024-10-21T16:29:00.119602",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 71,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.144666",
+  "ERROR_DATE" : "2024-10-21T16:29:00.121412",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 71,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.144678",
+  "ERROR_DATE" : "2024-10-21T16:29:00.121424",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 72,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.145891",
+  "ERROR_DATE" : "2024-10-21T16:29:00.122915",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 73,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.146903",
+  "ERROR_DATE" : "2024-10-21T16:29:00.124246",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 73,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.146917",
+  "ERROR_DATE" : "2024-10-21T16:29:00.124258",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 74,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.12563",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 74,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.148132",
+  "ERROR_DATE" : "2024-10-21T16:29:00.125642",
   "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 74,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.148144",
-  "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 75,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.149361",
+  "ERROR_DATE" : "2024-10-21T16:29:00.126981",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 75,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.149373",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 76,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.150473",
+  "ERROR_DATE" : "2024-10-21T16:29:00.126993",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 76,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.150484",
+  "ERROR_DATE" : "2024-10-21T16:29:00.12823",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 76,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.128243",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 77,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.12965",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 77,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.1515",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 77,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.15151",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 78,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.152509",
+  "ERROR_DATE" : "2024-10-21T16:29:00.12966",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 78,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.152524",
+  "ERROR_DATE" : "2024-10-21T16:29:00.131093",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 78,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.131107",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 48,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.211886",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 48,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.229233",
+  "ERROR_DATE" : "2024-10-21T16:29:00.211901",
   "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 48,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.229248",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 49,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.231968",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 49,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.231994",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 24,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.233685",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 24,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.233697",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 50,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.234646",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 50,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.234657",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 51,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.241418",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 51,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.24143",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 25,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.238705",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 25,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.238763",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 13,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.244206",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 14,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.247411",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 15,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.250053",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 52,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.243346",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 52,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.243358",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 56,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.252049",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 56,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.25206",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 16,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.251673",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 17,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.256125",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 64,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.248969",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 64,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.248997",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 26,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.245918",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 26,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.24593",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 65,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.258388",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 65,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.2584",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 18,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.256914",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 57,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.255288",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 57,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.255299",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 53,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.253792",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 53,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.253803",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 58,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.265325",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 58,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.265336",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 19,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.263493",
-  "ERROR_CODE" : "NULL_FIELD"
 }, {
   "RECORD_NUMBER" : 1,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.263027",
+  "ERROR_DATE" : "2024-10-21T16:29:00.212679",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 66,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.262736",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 66,
+  "RECORD_NUMBER" : 24,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.262746",
+  "ERROR_DATE" : "2024-10-21T16:29:00.212589",
   "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 24,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.21263",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 13,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.212494",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 25,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.222485",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 25,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.222496",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 64,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.221072",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 64,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.221107",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 32,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.220694",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 32,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.262072",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 32,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.262083",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 40,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.261627",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 40,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.261639",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 27,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.261015",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 27,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.261027",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 41,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.275453",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 41,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.275463",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 33,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.273839",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 33,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.273849",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 67,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.272126",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 67,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.272143",
+  "ERROR_DATE" : "2024-10-21T16:29:00.220708",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 2,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.270385",
+  "ERROR_DATE" : "2024-10-21T16:29:00.216409",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 20,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.26873",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 59,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.268246",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 59,
+  "RECORD_NUMBER" : 49,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.268257",
+  "ERROR_DATE" : "2024-10-21T16:29:00.213513",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 54,
+  "RECORD_NUMBER" : 49,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.266221",
+  "ERROR_DATE" : "2024-10-21T16:29:00.213524",
   "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 54,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.266231",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 60,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.287757",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 60,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.287766",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 21,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.286227",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 21,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.286243",
-  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 3,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.284219",
+  "ERROR_DATE" : "2024-10-21T16:29:00.232056",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 68,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.282335",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 68,
+  "RECORD_NUMBER" : 33,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.282343",
+  "ERROR_DATE" : "2024-10-21T16:29:00.230461",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 33,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.230473",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 65,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.228559",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 65,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.22857",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 40,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.226732",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 40,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.226746",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 26,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.226693",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 26,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.226706",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 56,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.22537",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 56,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.225413",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 14,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.224245",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 57,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.242721",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 57,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.242731",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 27,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.241572",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 27,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.241584",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 41,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.240535",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 41,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.240545",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 66,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.239566",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 66,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.239577",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 34,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.238011",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 34,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.280539",
+  "ERROR_DATE" : "2024-10-21T16:29:00.238022",
   "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 34,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.280548",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 42,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.278762",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 42,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.278772",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 28,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.277136",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 28,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.277146",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 43,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.298319",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 43,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.298335",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 35,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.296401",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 35,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.296413",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 69,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.293905",
-  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 4,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.292873",
+  "ERROR_DATE" : "2024-10-21T16:29:00.235876",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 22,
+  "RECORD_NUMBER" : 50,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.234208",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 50,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.29108",
+  "ERROR_DATE" : "2024-10-21T16:29:00.234224",
   "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 22,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.291097",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 61,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.290239",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 61,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.290247",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 55,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.289415",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 55,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.289427",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 62,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.304597",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 62,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.304605",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 23,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.303838",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 23,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.303849",
-  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 5,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.303026",
+  "ERROR_DATE" : "2024-10-21T16:29:00.251108",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 70,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.302584",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 70,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.302605",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 36,
+  "RECORD_NUMBER" : 35,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.301838",
+  "ERROR_DATE" : "2024-10-21T16:29:00.24998",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 36,
+  "RECORD_NUMBER" : 35,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.301955",
+  "ERROR_DATE" : "2024-10-21T16:29:00.24999",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 44,
+  "RECORD_NUMBER" : 67,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.301179",
+  "ERROR_DATE" : "2024-10-21T16:29:00.248883",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 44,
+  "RECORD_NUMBER" : 67,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.248891",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 42,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.247588",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 42,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.30119",
+  "ERROR_DATE" : "2024-10-21T16:29:00.247597",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 28,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.246295",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 28,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.246319",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 58,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.245105",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 58,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.245115",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 15,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.243767",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 59,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.259912",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 59,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.259923",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 29,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.2992",
+  "ERROR_DATE" : "2024-10-21T16:29:00.25874",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 29,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.299212",
+  "ERROR_DATE" : "2024-10-21T16:29:00.258749",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 45,
-  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.316599",
-  "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 45,
+  "RECORD_NUMBER" : 43,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.316612",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.257381",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 37,
+  "RECORD_NUMBER" : 43,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.314531",
+  "ERROR_DATE" : "2024-10-21T16:29:00.257392",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 37,
+  "RECORD_NUMBER" : 68,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.31454",
+  "ERROR_DATE" : "2024-10-21T16:29:00.25605",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 68,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.256058",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 36,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.25476",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 36,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.254768",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 6,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.3104",
+  "ERROR_DATE" : "2024-10-21T16:29:00.253313",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 63,
+  "RECORD_NUMBER" : 51,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID",
-  "ERROR_DATE" : "2024-10-21T11:24:00.306362",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.252458",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 63,
+  "RECORD_NUMBER" : 51,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.306373",
+  "ERROR_DATE" : "2024-10-21T16:29:00.252469",
   "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 7,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.320776",
+  "ERROR_DATE" : "2024-10-21T16:29:00.268669",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 38,
+  "RECORD_NUMBER" : 37,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.320108",
+  "ERROR_DATE" : "2024-10-21T16:29:00.267522",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 38,
+  "RECORD_NUMBER" : 37,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.320156",
+  "ERROR_DATE" : "2024-10-21T16:29:00.26759",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 46,
+  "RECORD_NUMBER" : 69,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.319327",
+  "ERROR_DATE" : "2024-10-21T16:29:00.266366",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 46,
+  "RECORD_NUMBER" : 44,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.264954",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 44,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.264963",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 30,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.319333",
+  "ERROR_DATE" : "2024-10-21T16:29:00.263699",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 30,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.318632",
+  "ERROR_DATE" : "2024-10-21T16:29:00.263709",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 30,
+  "RECORD_NUMBER" : 60,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.318639",
+  "ERROR_DATE" : "2024-10-21T16:29:00.262494",
   "ERROR_CODE" : "ValidNationalId"
 }, {
-  "RECORD_NUMBER" : 47,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.325427",
-  "ERROR_CODE" : "ValidNationalId"
-}, {
-  "RECORD_NUMBER" : 47,
+  "RECORD_NUMBER" : 60,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.325438",
+  "ERROR_DATE" : "2024-10-21T16:29:00.262504",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 39,
+  "RECORD_NUMBER" : 16,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.260985",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 61,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.324609",
+  "ERROR_DATE" : "2024-10-21T16:29:00.278499",
   "ERROR_CODE" : "ValidAge"
 }, {
-  "RECORD_NUMBER" : 39,
+  "RECORD_NUMBER" : 61,
   "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.324626",
+  "ERROR_DATE" : "2024-10-21T16:29:00.278514",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 31,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.277242",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 31,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.277256",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 45,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.275817",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 45,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.275828",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 70,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.274467",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 70,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.274483",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 38,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.273007",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 38,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.273023",
   "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 8,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.323562",
+  "ERROR_DATE" : "2024-10-21T16:29:00.27153",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 31,
+  "RECORD_NUMBER" : 52,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.270117",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 52,
   "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "The age of the customer is under 18",
-  "ERROR_DATE" : "2024-10-21T11:24:00.326213",
+  "ERROR_DATE" : "2024-10-21T16:29:00.27013",
   "ERROR_CODE" : "ValidAge"
-}, {
-  "RECORD_NUMBER" : 31,
-  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
-  "ERROR_DESCRIPTION" : "Invalid national ID format",
-  "ERROR_DATE" : "2024-10-21T11:24:00.326219",
-  "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 9,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.32839",
+  "ERROR_DATE" : "2024-10-21T16:29:00.28914",
   "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 39,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.288062",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 39,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.288071",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 46,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.285214",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 46,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.285224",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 62,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.281503",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 62,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.281511",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 17,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.280001",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 63,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.296654",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 63,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.296662",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 47,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.295228",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 47,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.295237",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 10,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.32982",
+  "ERROR_DATE" : "2024-10-21T16:29:00.291766",
   "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 53,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.2906",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 53,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.290609",
+  "ERROR_CODE" : "ValidAge"
 }, {
   "RECORD_NUMBER" : 11,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.330474",
+  "ERROR_DATE" : "2024-10-21T16:29:00.302803",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 18,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.298071",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
   "RECORD_NUMBER" : 12,
   "ERROR_CLASSIFICATION_NAME" : "Field",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.331054",
+  "ERROR_DATE" : "2024-10-21T16:29:00.305963",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 395,
+  "RECORD_NUMBER" : 54,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.304744",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 54,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.304753",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 19,
   "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.333536",
+  "ERROR_DATE" : "2024-10-21T16:29:00.30743",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 396,
+  "RECORD_NUMBER" : 55,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.310396",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 55,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.310408",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 20,
   "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
   "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.336917",
+  "ERROR_DATE" : "2024-10-21T16:29:00.311905",
   "ERROR_CODE" : "NULL_FIELD"
 }, {
-  "RECORD_NUMBER" : 397,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.339508",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 398,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.34244",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 399,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.343577",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 400,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.344524",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 457,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.39737",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 401,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.397563",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 420,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.397409",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 402,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.400954",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 458,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.400361",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 403,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.40297",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 421,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.402243",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 459,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.40418",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 387,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.403969",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 422,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.406422",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 460,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.406957",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 388,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.406717",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 423,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.408817",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 461,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 767",
-  "ERROR_DATE" : "2024-10-21T11:24:00.409831",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 389,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.409641",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 424,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.41652",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 462,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 903",
-  "ERROR_DATE" : "2024-10-21T11:24:00.417216",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 390,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.41686",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 463,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 347",
-  "ERROR_DATE" : "2024-10-21T11:24:00.419194",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 425,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.418938",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 391,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.419464",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 392,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.422336",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 464,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 511",
-  "ERROR_DATE" : "2024-10-21T11:24:00.421308",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 393,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.423147",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 394,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.424912",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 426,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.422587",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 465,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 190",
-  "ERROR_DATE" : "2024-10-21T11:24:00.425419",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 412,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.428502",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 466,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 474",
-  "ERROR_DATE" : "2024-10-21T11:24:00.429348",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 413,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.431762",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 467,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 132",
-  "ERROR_DATE" : "2024-10-21T11:24:00.43256",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 414,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.434397",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 468,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 836",
-  "ERROR_DATE" : "2024-10-21T11:24:00.435628",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 415,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.437033",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 469,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 346",
-  "ERROR_DATE" : "2024-10-21T11:24:00.438932",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 416,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.440557",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 470,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 379",
-  "ERROR_DATE" : "2024-10-21T11:24:00.44146",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 417,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.442637",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 471,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 414",
-  "ERROR_DATE" : "2024-10-21T11:24:00.445064",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 418,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.445096",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 381,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.447775",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 382,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.449308",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 383,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.450225",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 384,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.450929",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 385,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.451611",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 386,
-  "ERROR_CLASSIFICATION_NAME" : "Field",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
-  "ERROR_DATE" : "2024-10-21T11:24:00.452376",
-  "ERROR_CODE" : "NULL_FIELD"
-}, {
-  "RECORD_NUMBER" : 449,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.447772",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 419,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.449509",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 450,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.455111",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 404,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.454978",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 434,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.456322",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 405,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.45893",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 451,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.457939",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 406,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.461715",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 452,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.46267",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 407,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.463625",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 435,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.460428",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 408,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.466257",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 453,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.465403",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 409,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.469192",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 454,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.470196",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 410,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.471226",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 455,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.472324",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 411,
-  "ERROR_CLASSIFICATION_NAME" : "balance",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.473322",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 436,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.467287",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 456,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.474661",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 437,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.477362",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 442,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.478077",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 438,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.47984",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 443,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.481263",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 439,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.482663",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 444,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.483395",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 440,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.484853",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 445,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.486036",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 441,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.487637",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 446,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.489489",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 427,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.490523",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 447,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.49225",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 428,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.493925",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 448,
-  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
-  "ERROR_DATE" : "2024-10-21T11:24:00.495157",
-  "ERROR_CODE" : "Pattern"
-}, {
-  "RECORD_NUMBER" : 429,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.497225",
-  "ERROR_CODE" : "ValidBalanceLimit"
+  "RECORD_NUMBER" : 21,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.315248",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 21,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.315253",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 22,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID format",
+  "ERROR_DATE" : "2024-10-21T16:29:00.316898",
+  "ERROR_CODE" : "ValidNationalId"
+}, {
+  "RECORD_NUMBER" : 22,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.316902",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 23,
+  "ERROR_CLASSIFICATION_NAME" : "dateOfBirth.dateOfBirth",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "The age of the customer is under 18",
+  "ERROR_DATE" : "2024-10-21T16:29:00.318561",
+  "ERROR_CODE" : "ValidAge"
+}, {
+  "RECORD_NUMBER" : 23,
+  "ERROR_CLASSIFICATION_NAME" : "nationalId.nationalId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/customers.csv",
+  "ERROR_DESCRIPTION" : "Invalid national ID",
+  "ERROR_DATE" : "2024-10-21T16:29:00.318566",
+  "ERROR_CODE" : "ValidNationalId"
 }, {
   "RECORD_NUMBER" : 487,
   "ERROR_CLASSIFICATION_NAME" : "accountType",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.497707",
+  "ERROR_DATE" : "2024-10-21T16:29:00.400844",
   "ERROR_CODE" : "ValidBalanceLimit"
 }, {
-  "RECORD_NUMBER" : 430,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "RECORD_NUMBER" : 457,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.500202",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 488,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.501267",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 431,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.50219",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 489,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.503508",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 432,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.5058",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 490,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.506553",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 433,
-  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
-  "ERROR_DATE" : "2024-10-21T11:24:00.507664",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 491,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.508946",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 480,
-  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Customer not found with customerId: 607",
-  "ERROR_DATE" : "2024-10-21T11:24:00.509957",
-  "ERROR_CODE" : "ValidCustomerId"
-}, {
-  "RECORD_NUMBER" : 481,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.512665",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 492,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.512807",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 482,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.514744",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 493,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.515711",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 483,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.516726",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 494,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.518029",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 484,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.518948",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 495,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.52041",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 485,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.522492",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 496,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.523646",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 486,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.525756",
-  "ERROR_CODE" : "ValidBalanceLimit"
-}, {
-  "RECORD_NUMBER" : 497,
-  "ERROR_CLASSIFICATION_NAME" : "accountType",
-  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
-  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.525971",
-  "ERROR_CODE" : "ValidBalanceLimit"
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.400912",
+  "ERROR_CODE" : "Pattern"
 }, {
   "RECORD_NUMBER" : 472,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 843",
-  "ERROR_DATE" : "2024-10-21T11:24:00.527572",
+  "ERROR_DATE" : "2024-10-21T16:29:00.400882",
   "ERROR_CODE" : "ValidCustomerId"
 }, {
-  "RECORD_NUMBER" : 498,
+  "RECORD_NUMBER" : 480,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 607",
+  "ERROR_DATE" : "2024-10-21T16:29:00.400878",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 420,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.400844",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 449,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.400844",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 421,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.412737",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 481,
   "ERROR_CLASSIFICATION_NAME" : "accountType",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.529026",
+  "ERROR_DATE" : "2024-10-21T16:29:00.410812",
   "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 473,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 128",
-  "ERROR_DATE" : "2024-10-21T11:24:00.530701",
+  "ERROR_DATE" : "2024-10-21T16:29:00.408712",
   "ERROR_CODE" : "ValidCustomerId"
 }, {
-  "RECORD_NUMBER" : 499,
+  "RECORD_NUMBER" : 458,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.40729",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 488,
   "ERROR_CLASSIFICATION_NAME" : "accountType",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.531469",
+  "ERROR_DATE" : "2024-10-21T16:29:00.405038",
   "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 474,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 844",
-  "ERROR_DATE" : "2024-10-21T11:24:00.534127",
+  "ERROR_DATE" : "2024-10-21T16:29:00.420748",
   "ERROR_CODE" : "ValidCustomerId"
 }, {
-  "RECORD_NUMBER" : 500,
+  "RECORD_NUMBER" : 482,
   "ERROR_CLASSIFICATION_NAME" : "accountType",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
-  "ERROR_DATE" : "2024-10-21T11:24:00.53477",
+  "ERROR_DATE" : "2024-10-21T16:29:00.418855",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 422,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.417198",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 450,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.414629",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 423,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.430753",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 483,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.428203",
   "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 475,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 231",
-  "ERROR_DATE" : "2024-10-21T11:24:00.536105",
+  "ERROR_DATE" : "2024-10-21T16:29:00.426158",
   "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 489,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.425705",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 459,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.42562",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 490,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.445273",
+  "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 476,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 970",
-  "ERROR_DATE" : "2024-10-21T11:24:00.539003",
+  "ERROR_DATE" : "2024-10-21T16:29:00.438183",
   "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 484,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.43625",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 424,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.434243",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 451,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.432339",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 425,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.455026",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 485,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.452924",
+  "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 477,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 356",
-  "ERROR_DATE" : "2024-10-21T11:24:00.542049",
+  "ERROR_DATE" : "2024-10-21T16:29:00.450857",
   "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 491,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.449243",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 460,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.447549",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 492,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.464612",
+  "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 478,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 45",
-  "ERROR_DATE" : "2024-10-21T11:24:00.544097",
+  "ERROR_DATE" : "2024-10-21T16:29:00.462379",
   "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 486,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.460373",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 426,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.459143",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 452,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.456416",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 412,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.474325",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 494,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.473681",
+  "ERROR_CODE" : "ValidBalanceLimit"
 }, {
   "RECORD_NUMBER" : 479,
   "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
   "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
   "ERROR_DESCRIPTION" : "Customer not found with customerId: 400",
-  "ERROR_DATE" : "2024-10-21T11:24:00.546412",
+  "ERROR_DATE" : "2024-10-21T16:29:00.470449",
   "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 493,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.468359",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 461,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 767",
+  "ERROR_DATE" : "2024-10-21T16:29:00.466601",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 464,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 511",
+  "ERROR_DATE" : "2024-10-21T16:29:00.484429",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 395,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.48142",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 495,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.480302",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 413,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.477949",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 453,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.475819",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 414,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.495911",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 496,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.492672",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 396,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.489586",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 397,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.504945",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 465,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 190",
+  "ERROR_DATE" : "2024-10-21T16:29:00.48848",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 462,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 903",
+  "ERROR_DATE" : "2024-10-21T16:29:00.486322",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 466,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 474",
+  "ERROR_DATE" : "2024-10-21T16:29:00.510359",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 398,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.50701",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 399,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.517257",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 497,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.504107",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 415,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.501281",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 454,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.498768",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 416,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.525358",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 498,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.522903",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 400,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.519688",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 467,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 132",
+  "ERROR_DATE" : "2024-10-21T16:29:00.515735",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 463,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 347",
+  "ERROR_DATE" : "2024-10-21T16:29:00.513279",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 468,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 836",
+  "ERROR_DATE" : "2024-10-21T16:29:00.539031",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 401,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.536587",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 499,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.533458",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 417,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.531604",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 455,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.528183",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 418,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.552242",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 500,
+  "ERROR_CLASSIFICATION_NAME" : "accountType",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Invalid account type. Allowed values are SAVINGS, RD, FD.  not be INVALID_TYPE",
+  "ERROR_DATE" : "2024-10-21T16:29:00.549838",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 402,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type FD. Max allowed: 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.546993",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 469,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 346",
+  "ERROR_DATE" : "2024-10-21T16:29:00.544464",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 403,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.561811",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 419,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.557131",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 456,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.554906",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 434,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.569412",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 387,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.566191",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 388,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.576254",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 389,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.578403",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 470,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 379",
+  "ERROR_DATE" : "2024-10-21T16:29:00.564299",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 390,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.580526",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 391,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.585292",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 392,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.587725",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 435,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.574508",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 442,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.57191",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 436,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.593677",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 393,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.590383",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 471,
+  "ERROR_CLASSIFICATION_NAME" : "customerId.customerId",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Customer not found with customerId: 414",
+  "ERROR_DATE" : "2024-10-21T16:29:00.583673",
+  "ERROR_CODE" : "ValidCustomerId"
+}, {
+  "RECORD_NUMBER" : 394,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.600376",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 437,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.599075",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 443,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.596223",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 438,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.611223",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 444,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.614915",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 439,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.61797",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 381,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.617835",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 382,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.625872",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 383,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.628143",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 440,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.623321",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 445,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.620875",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 441,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.634606",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 384,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.630484",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 385,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.641174",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 386,
+  "ERROR_CLASSIFICATION_NAME" : "Field",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "One or more fields are null or contain only spaces.",
+  "ERROR_DATE" : "2024-10-21T16:29:00.6436",
+  "ERROR_CODE" : "NULL_FIELD"
+}, {
+  "RECORD_NUMBER" : 427,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.639364",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 446,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.636695",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 428,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type RD should be 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.650391",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 404,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.646928",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 429,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.657412",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 447,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.654341",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 430,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.663099",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 405,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.66069",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 431,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.668371",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 448,
+  "ERROR_CLASSIFICATION_NAME" : "accountNumber",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "accountNumber must be exactly 22 digits",
+  "ERROR_DATE" : "2024-10-21T16:29:00.66578",
+  "ERROR_CODE" : "Pattern"
+}, {
+  "RECORD_NUMBER" : 432,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type SAVINGS should be 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.673445",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 406,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.671542",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 433,
+  "ERROR_CLASSIFICATION_NAME" : "accountBalanceLimit",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Account balance limit for account type FD should be 100000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.67938",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 407,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.682596",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 408,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.688395",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 409,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.69288",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 410,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type RD. Max allowed: 10000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.696777",
+  "ERROR_CODE" : "ValidBalanceLimit"
+}, {
+  "RECORD_NUMBER" : 411,
+  "ERROR_CLASSIFICATION_NAME" : "balance",
+  "FILE_NAME" : "/Users/imans/Desktop/iBank/bankingprocess/src/main/resources/data/accounts.csv",
+  "ERROR_DESCRIPTION" : "Balance exceeds the allowed limit for account type SAVINGS. Max allowed: 1000000",
+  "ERROR_DATE" : "2024-10-21T16:29:00.70234",
+  "ERROR_CODE" : "ValidBalanceLimit"
 } ]

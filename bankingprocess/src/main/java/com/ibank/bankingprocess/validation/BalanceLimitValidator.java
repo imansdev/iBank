@@ -1,17 +1,19 @@
 package com.ibank.bankingprocess.validation;
 
+import org.springframework.beans.factory.annotation.Value;
 import com.ibank.bankingprocess.dto.AccountInputDTO;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 
 public class BalanceLimitValidator
         implements ConstraintValidator<ValidBalanceLimit, AccountInputDTO> {
-    // @Value("${account.limit.savings}")
-    // Long limitSavings;
-    // @Value("${account.limit.RD}")
-    // Long limitRD;
-    // @Value("${account.limit.FD}")
-    // Long limitFD;
+
+    @Value("${account.limit.savings}")
+    Long limitSavings;
+    @Value("${account.limit.RD}")
+    Long limitRD;
+    @Value("${account.limit.FD}")
+    Long limitFD;
 
     @Override
     public boolean isValid(AccountInputDTO account, ConstraintValidatorContext context) {
@@ -21,13 +23,13 @@ public class BalanceLimitValidator
 
         switch (account.getAccountType()) {
             case "SAVINGS":
-                balanceLimit = 1_000_000L;
+                balanceLimit = limitSavings;
                 break;
             case "RD":
-                balanceLimit = 10_000_000L;
+                balanceLimit = limitRD;
                 break;
             case "FD":
-                balanceLimit = 100_000_000L;
+                balanceLimit = limitFD;
                 break;
             default:
                 context.disableDefaultConstraintViolation();

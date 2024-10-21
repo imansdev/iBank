@@ -21,8 +21,6 @@ public class AccountInputDTO {
 
     private String balance;
 
-    // @DateTimeFormat(pattern = "yyyy-MM-dd")
-    // @Pattern(regexp = "\\d{4}-\\d{2}-\\d{2}")
     @Past(message = "accountCreationDate should be in the past")
     private LocalDate accountCreationDate;
 

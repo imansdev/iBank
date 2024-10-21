@@ -91,7 +91,6 @@ public class AccountProcess {
         }
     }
 
-    // Log validation errors using the ErrorLogger
     private void logErrors(Set<ConstraintViolation<AccountInputDTO>> violations, String fileName,
             int recordNumber) {
         List<Map<String, Object>> errorList = new ArrayList<>();
