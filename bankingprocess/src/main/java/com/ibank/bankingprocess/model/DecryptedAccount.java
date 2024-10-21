@@ -19,11 +19,11 @@ public class DecryptedAccount {
     private String decryptedAccountNumber;
 
     @Column(nullable = false)
-    private String decryptedBalance;
+    private Long decryptedBalance;
 
     @ManyToOne
     @JoinColumn(name = "customer_id", nullable = false, referencedColumnName = "customerId")
-    private Customers customer;
+    private Customer customer;
 
     // Getters and Setters
     public Long getId() {
@@ -42,19 +42,19 @@ public class DecryptedAccount {
         this.decryptedAccountNumber = decryptedAccountNumber;
     }
 
-    public String getDecryptedBalance() {
+    public Long getDecryptedBalance() {
         return decryptedBalance;
     }
 
-    public void setDecryptedBalance(String decryptedBalance) {
+    public void setDecryptedBalance(Long decryptedBalance) {
         this.decryptedBalance = decryptedBalance;
     }
 
-    public Customers getCustomer() {
+    public Customer getCustomer() {
         return customer;
     }
 
-    public void setCustomer(Customers customer) {
+    public void setCustomer(Customer customer) {
         this.customer = customer;
     }
 }

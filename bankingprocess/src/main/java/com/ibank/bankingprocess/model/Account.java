@@ -13,7 +13,7 @@ import jakarta.persistence.ManyToOne;
 
 
 @Entity
-public class Accounts {
+public class Account {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -36,7 +36,7 @@ public class Accounts {
 
     @ManyToOne
     @JoinColumn(name = "customer_id", nullable = false, referencedColumnName = "customerId")
-    private Customers customer;
+    private Customer customer;
 
     public enum AccountType {
         SAVINGS, RD, FD
@@ -86,7 +86,7 @@ public class Accounts {
         return id;
     }
 
-    public void setCustomer(Customers customer) {
+    public void setCustomer(Customer customer) {
         this.customer = customer;
     }
 
@@ -94,13 +94,13 @@ public class Accounts {
         this.id = id;
     }
 
-    public Customers getCustomer() {
+    public Customer getCustomer() {
         return customer;
     }
 
     @Override
     public String toString() {
-        return "Accounts [id=" + id + ", accountNumber=" + accountNumber + ", accountBalanceLimit="
+        return "Account [id=" + id + ", accountNumber=" + accountNumber + ", accountBalanceLimit="
                 + accountBalanceLimit + ", accountType=" + accountType + ", balance=" + balance
                 + ", accountCreationDate=" + accountCreationDate + ", customer=" + customer + "]";
     }

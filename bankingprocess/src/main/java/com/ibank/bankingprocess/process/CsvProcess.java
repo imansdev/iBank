@@ -13,19 +13,19 @@ public class CsvProcess {
     @Value("${csv.file.customer}")
     private String CustomerCsv;
     @Autowired
-    private AccountsProcess accountsProcess;
+    private AccountProcess accountProcess;
     @Autowired
-    private CustomersProcess customersProcess;
+    private CustomerProcess customerProcess;
 
-    @Scheduled(cron = "0 */15 * * * ?")
+    @Scheduled(cron = "0 */1 * * * ?")
     public void readAndProcessFiles() throws Exception {
         try {
-            CompletableFuture<Void> customerFuture = customersProcess.processFile(CustomerCsv);
+            CompletableFuture<Void> customerFuture = customerProcess.processFile(CustomerCsv);
 
 
             customerFuture.get();
 
-            CompletableFuture<Void> accountFuture = accountsProcess.processFile(accountCsv);
+            CompletableFuture<Void> accountFuture = accountProcess.processFile(accountCsv);
 
             accountFuture.get();
 

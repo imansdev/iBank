@@ -5,17 +5,17 @@ import org.springframework.stereotype.Service;
 
 import com.ibank.bankingprocess.dto.CustomerInputDTO;
 import com.ibank.bankingprocess.model.Address;
-import com.ibank.bankingprocess.model.Customers;
-import com.ibank.bankingprocess.repository.CustomersRepository;
+import com.ibank.bankingprocess.model.Customer;
+import com.ibank.bankingprocess.repository.CustomerRepository;
 
 @Service
-public class CustomersService {
+public class CustomerService {
 
     @Autowired
-    private CustomersRepository customersRepository;
+    private CustomerRepository customerRepository;
 
     public void customerInsertion(CustomerInputDTO customer) {
-        Customers newCustomer = new Customers();
+        Customer newCustomer = new Customer();
         newCustomer.setName(customer.getName());
         newCustomer.setSurname(customer.getSurname());
         newCustomer.setNationalId(customer.getNationalId());
@@ -29,6 +29,6 @@ public class CustomersService {
 
         newCustomer.setAddress(address);
 
-        customersRepository.save(newCustomer);
+        customerRepository.save(newCustomer);
     }
 }

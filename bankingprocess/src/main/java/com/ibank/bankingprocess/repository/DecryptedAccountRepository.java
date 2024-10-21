@@ -11,5 +11,5 @@ import java.util.List;
 public interface DecryptedAccountRepository extends JpaRepository<DecryptedAccount, Long> {
 
     @Query("SELECT da FROM DecryptedAccount da WHERE CAST(da.decryptedBalance AS double) > 1000")
-    List<DecryptedAccount> findAccountsWithDecryptedBalanceGreaterThan1000();
+    List<DecryptedAccount> findAccountWithDecryptedBalanceGreaterThan1000();
 }

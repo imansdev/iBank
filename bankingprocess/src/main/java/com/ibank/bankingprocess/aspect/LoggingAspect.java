@@ -14,7 +14,7 @@ public class LoggingAspect {
 
     private static final Logger logger = LoggerFactory.getLogger(LoggingAspect.class);
 
-    // Log the start and end of file processing for AccountsProcess and CustomersProcess
+    // Log the start and end of file processing for AccountProcess and CustomerProcess
     @Around("execution(* com.ibank.bankingprocess.process.*Process.processFile(..))")
     public Object logFileProcessing(ProceedingJoinPoint joinPoint) throws Throwable {
         String fileName = (String) joinPoint.getArgs()[0]; // Get the file name being processed

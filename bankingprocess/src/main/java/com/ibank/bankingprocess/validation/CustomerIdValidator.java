@@ -3,12 +3,12 @@ package com.ibank.bankingprocess.validation;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 import org.springframework.beans.factory.annotation.Autowired;
-import com.ibank.bankingprocess.repository.CustomersRepository;
+import com.ibank.bankingprocess.repository.CustomerRepository;
 
 public class CustomerIdValidator implements ConstraintValidator<ValidCustomerId, Long> {
 
     @Autowired
-    private CustomersRepository customersRepository;
+    private CustomerRepository customerRepository;
 
     @Override
     public boolean isValid(Long customerId, ConstraintValidatorContext context) {
@@ -16,7 +16,7 @@ public class CustomerIdValidator implements ConstraintValidator<ValidCustomerId,
             return false;
         }
 
-        boolean customerExists = customersRepository.existsByCustomerId(customerId);
+        boolean customerExists = customerRepository.existsByCustomerId(customerId);
 
         if (!customerExists) {
             context.disableDefaultConstraintViolation();

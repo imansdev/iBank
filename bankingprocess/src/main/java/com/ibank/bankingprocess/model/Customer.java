@@ -14,7 +14,7 @@ import jakarta.persistence.OneToOne;
 
 
 @Entity
-public class Customers {
+public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -41,7 +41,7 @@ public class Customers {
 
     @OneToMany(mappedBy = "customer", cascade = CascadeType.ALL)
     @JsonIgnore
-    private List<Accounts> account;
+    private List<Account> account;
 
     public String getName() {
         return name;
@@ -97,9 +97,9 @@ public class Customers {
 
     @Override
     public String toString() {
-        return "Customers [id=" + id + ", customerId=" + customerId + ", name=" + name
-                + ", surname=" + surname + ", nationalId=" + nationalId + ", dateOfBirth="
-                + dateOfBirth + ", address=" + address + "]";
+        return "Customer [id=" + id + ", customerId=" + customerId + ", name=" + name + ", surname="
+                + surname + ", nationalId=" + nationalId + ", dateOfBirth=" + dateOfBirth
+                + ", address=" + address + "]";
     }
 
 }

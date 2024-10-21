@@ -10,18 +10,18 @@ import java.util.stream.Stream;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
-import com.ibank.bankingprocess.dto.AccountInputDTO;
-import com.ibank.bankingprocess.service.AccountsService;
+import com.ibank.bankingprocess.dto.CustomerInputDTO;
+import com.ibank.bankingprocess.service.CustomerService;
 import com.ibank.bankingprocess.utils.EncryptionUtil;
 import com.ibank.bankingprocess.process.error.ErrorLogger;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validator;
 
 @Component
-public class AccountsProcess {
+public class CustomerProcess {
 
     @Autowired
-    private AccountsService accountsService;
+    private CustomerService customerService;
 
     @Autowired
     private Validator validator;
@@ -29,55 +29,58 @@ public class AccountsProcess {
     @Autowired
     private ErrorLogger errorLogger;
 
+
     @Async
-    public CompletableFuture<Void> processFile(String accountCsv) {
+    public CompletableFuture<Void> processFile(String customerCsv) {
 
-        try (Stream<String> lines = Files.lines(Paths.get(accountCsv))) {
-            lines.skip(1).parallel().forEach(line -> this.processLine(line, accountCsv));
-
+        try (Stream<String> lines = Files.lines(Paths.get(customerCsv))) {
+            lines.skip(1).parallel().forEach(line -> this.processLine(line, customerCsv));
         } catch (IOException e) {
             e.printStackTrace();
         }
         return CompletableFuture.completedFuture(null);
     }
 
-    // The logic for processing each line and performing decryption/validation
-    private void processLine(String line, String fileName) {
+    public void processLine(String line, String fileName) {
         String[] fields = line.split(",");
 
         try {
             int recordNumber = Integer.parseInt(fields[0]);
-            if (fields.length != 7
+            if (fields.length != 9
                     || Arrays.stream(fields).anyMatch(field -> field.trim().isEmpty())) {
                 logErrorshand(fileName, recordNumber, "NULL_FIELD", "Field",
                         "One or more fields are null or contain only spaces.");
                 return;
             }
-            String accountNumber = fields[1];
-            Long accountBalanceLimit = Long.parseLong(fields[2]);
-            String accountType = fields[3];
-            String balance = fields[4];
-            LocalDate accountCreationDate = LocalDate.parse(fields[5]);
-            Long customerId = Long.parseLong(fields[6]);
 
-            AccountInputDTO account = new AccountInputDTO();
-            account.setAccountNumber(EncryptionUtil.decrypt(accountNumber));
-            account.setBalance(EncryptionUtil.decrypt(balance));
-            account.setAccountType(accountType);
-            account.setAccountBalanceLimit(accountBalanceLimit);
-            account.setAccountCreationDate(accountCreationDate);
-            account.setCustomerId(customerId);
+            String name = fields[1];
+            String surname = fields[2];
+            String nationalId = fields[3];
+            LocalDate dateOfBirth = LocalDate.parse(fields[4]);
+            String street = fields[5];
+            String city = fields[6];
+            Long zipCode = Long.parseLong(fields[7]);
+            Long customerId = Long.parseLong(fields[8]);
 
-            // Validate the account object
-            Set<ConstraintViolation<AccountInputDTO>> violations = validator.validate(account);
+            CustomerInputDTO customer = new CustomerInputDTO();
+            customer.setName(EncryptionUtil.decrypt(name));
+            customer.setSurname(EncryptionUtil.decrypt(surname));
+            customer.setNationalId(EncryptionUtil.decrypt(nationalId));
+            customer.setDateOfBirth(dateOfBirth);
+            customer.setStreet(street);
+            customer.setCity(city);
+            customer.setZipCode(zipCode);
+            customer.setCustomerId(customerId);
+
+            Set<ConstraintViolation<CustomerInputDTO>> violations = validator.validate(customer);
 
             if (!violations.isEmpty()) {
-                // If there are validation errors, log them to error.json
                 logErrors(violations, fileName, recordNumber);
             } else {
-                account.setAccountNumber(EncryptionUtil.encrypt(accountNumber));
-                account.setBalance(EncryptionUtil.encrypt(balance.toString()));
-                accountsService.accountInsertion(account);
+                customer.setNationalId(EncryptionUtil.encrypt(nationalId));
+                customer.setName(EncryptionUtil.encrypt(name));
+                customer.setSurname(EncryptionUtil.encrypt(surname));
+                customerService.customerInsertion(customer);
             }
 
         } catch (Exception e) {
@@ -85,11 +88,10 @@ public class AccountsProcess {
         }
     }
 
-    // Log validation errors using the ErrorLogger
-    private void logErrors(Set<ConstraintViolation<AccountInputDTO>> violations, String fileName,
+    private void logErrors(Set<ConstraintViolation<CustomerInputDTO>> violations, String fileName,
             int recordNumber) {
         List<Map<String, Object>> errorList = new ArrayList<>();
-        for (ConstraintViolation<AccountInputDTO> violation : violations) {
+        for (ConstraintViolation<CustomerInputDTO> violation : violations) {
             Map<String, Object> errorDetails =
                     errorLogger.createErrorDetails(fileName, recordNumber,
                             violation.getConstraintDescriptor().getAnnotation().annotationType()
@@ -97,7 +99,6 @@ public class AccountsProcess {
                             violation.getPropertyPath().toString(), violation.getMessage());
             errorList.add(errorDetails);
         }
-
         errorLogger.logErrors(errorList);
     }
 
