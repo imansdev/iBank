@@ -1,12 +1,4 @@
 [ {
-  "accountNumber" : "0000000080005399262735",
-  "customerId" : 672667,
-  "balance" : 619845
-}, {
-  "accountNumber" : "0000000737480127740500",
-  "customerId" : 773557,
-  "balance" : 812960
-}, {
   "accountNumber" : "0000000805214190218591",
   "customerId" : 753791,
   "balance" : 16761169
@@ -23,17 +15,9 @@
   "customerId" : 742081,
   "balance" : 27958683
 }, {
-  "accountNumber" : "0000000162629281305404",
-  "customerId" : 316088,
-  "balance" : 348557
-}, {
   "accountNumber" : "0000000941110726140028",
   "customerId" : 672869,
   "balance" : 8587801
-}, {
-  "accountNumber" : "0000000397603713747203",
-  "customerId" : 927356,
-  "balance" : 28593
 }, {
   "accountNumber" : "0000000814983569861603",
   "customerId" : 5421,
@@ -43,25 +27,9 @@
   "customerId" : 380685,
   "balance" : 4079766
 }, {
-  "accountNumber" : "0000000000495383608989",
-  "customerId" : 202666,
-  "balance" : 172569
-}, {
-  "accountNumber" : "0000000880211822711014",
-  "customerId" : 11754,
-  "balance" : 673864
-}, {
-  "accountNumber" : "0000000846179090922624",
-  "customerId" : 813912,
-  "balance" : 823852
-}, {
   "accountNumber" : "0000000211275225288843",
   "customerId" : 753791,
   "balance" : 16654333
-}, {
-  "accountNumber" : "0000000745066564056135",
-  "customerId" : 20271,
-  "balance" : 566745
 }, {
   "accountNumber" : "0000000026260930378889",
   "customerId" : 898555,
@@ -71,17 +39,9 @@
   "customerId" : 334101,
   "balance" : 5473891
 }, {
-  "accountNumber" : "0000000186672432668724",
-  "customerId" : 369165,
-  "balance" : 105228
-}, {
   "accountNumber" : "0000000203577533954427",
   "customerId" : 157665,
   "balance" : 9942924
-}, {
-  "accountNumber" : "0000000951378570574790",
-  "customerId" : 870106,
-  "balance" : 57538
 }, {
   "accountNumber" : "0000000385684518052599",
   "customerId" : 4172,
@@ -95,14 +55,6 @@
   "customerId" : 617341,
   "balance" : 34900282
 }, {
-  "accountNumber" : "0000000894965202673884",
-  "customerId" : 434090,
-  "balance" : 77439
-}, {
-  "accountNumber" : "0000000173029862712660",
-  "customerId" : 243199,
-  "balance" : 552662
-}, {
   "accountNumber" : "0000000754212933443786",
   "customerId" : 202666,
   "balance" : 42747133
@@ -114,14 +66,6 @@
   "accountNumber" : "0000000464912822945007",
   "customerId" : 414201,
   "balance" : 99525806
-}, {
-  "accountNumber" : "0000000654507315061126",
-  "customerId" : 577032,
-  "balance" : 772337
-}, {
-  "accountNumber" : "0000000929784786080755",
-  "customerId" : 961815,
-  "balance" : 480003
 }, {
   "accountNumber" : "0000000762087858244889",
   "customerId" : 849630,
@@ -147,17 +91,9 @@
   "customerId" : 596325,
   "balance" : 5101036
 }, {
-  "accountNumber" : "0000000268091077603383",
-  "customerId" : 947910,
-  "balance" : 70052
-}, {
   "accountNumber" : "0000000899641840344955",
   "customerId" : 876360,
   "balance" : 15755019
-}, {
-  "accountNumber" : "0000000556420463432844",
-  "customerId" : 935771,
-  "balance" : 101021
 }, {
   "accountNumber" : "0000000651718195598028",
   "customerId" : 39383,
@@ -191,37 +127,13 @@
   "customerId" : 815475,
   "balance" : 5469916
 }, {
-  "accountNumber" : "0000000860947129760006",
-  "customerId" : 249847,
-  "balance" : 142285
-}, {
-  "accountNumber" : "0000000794435959876952",
-  "customerId" : 961815,
-  "balance" : 294035
-}, {
-  "accountNumber" : "0000000640872572626604",
-  "customerId" : 602817,
-  "balance" : 696138
-}, {
   "accountNumber" : "0000000028020650671657",
   "customerId" : 476625,
   "balance" : 84710999
 }, {
-  "accountNumber" : "0000000221246072833042",
-  "customerId" : 875651,
-  "balance" : 943615
-}, {
-  "accountNumber" : "0000000976532526191426",
-  "customerId" : 549323,
-  "balance" : 746159
-}, {
   "accountNumber" : "0000000064240535415494",
   "customerId" : 354529,
   "balance" : 6706254
-}, {
-  "accountNumber" : "0000000305745737693742",
-  "customerId" : 300856,
-  "balance" : 146629
 }, {
   "accountNumber" : "0000000589810304923431",
   "customerId" : 471170,
@@ -230,34 +142,6 @@
   "accountNumber" : "0000000729393364950671",
   "customerId" : 510163,
   "balance" : 34743042
-}, {
-  "accountNumber" : "0000000263927675969616",
-  "customerId" : 304478,
-  "balance" : 60894
-}, {
-  "accountNumber" : "0000000649937401288560",
-  "customerId" : 359759,
-  "balance" : 534760
-}, {
-  "accountNumber" : "0000000604340856265967",
-  "customerId" : 5825,
-  "balance" : 368446
-}, {
-  "accountNumber" : "0000000789920034361898",
-  "customerId" : 864941,
-  "balance" : 170232
-}, {
-  "accountNumber" : "0000000827562749298492",
-  "customerId" : 601243,
-  "balance" : 478124
-}, {
-  "accountNumber" : "0000000428635498799979",
-  "customerId" : 523831,
-  "balance" : 152081
-}, {
-  "accountNumber" : "0000000257269963383568",
-  "customerId" : 623832,
-  "balance" : 759661
 }, {
   "accountNumber" : "0000000771605781067505",
   "customerId" : 163213,
@@ -271,18 +155,6 @@
   "customerId" : 789510,
   "balance" : 14682390
 }, {
-  "accountNumber" : "0000000133415453090952",
-  "customerId" : 766795,
-  "balance" : 266454
-}, {
-  "accountNumber" : "0000000670050728928715",
-  "customerId" : 497808,
-  "balance" : 441653
-}, {
-  "accountNumber" : "0000000762419670021735",
-  "customerId" : 992965,
-  "balance" : 245517
-}, {
   "accountNumber" : "0000000793428713287358",
   "customerId" : 991863,
   "balance" : 55635884
@@ -290,10 +162,6 @@
   "accountNumber" : "0000000859335187249508",
   "customerId" : 291912,
   "balance" : 84534638
-}, {
-  "accountNumber" : "0000000928938001824484",
-  "customerId" : 213602,
-  "balance" : 470353
 }, {
   "accountNumber" : "0000000950207346092828",
   "customerId" : 805407,
@@ -306,10 +174,6 @@
   "accountNumber" : "0000000043013207762691",
   "customerId" : 437981,
   "balance" : 3785585
-}, {
-  "accountNumber" : "0000000972869403694638",
-  "customerId" : 326607,
-  "balance" : 986593
 }, {
   "accountNumber" : "0000000829223909302554",
   "customerId" : 947910,
@@ -327,10 +191,6 @@
   "customerId" : 689081,
   "balance" : 9592934
 }, {
-  "accountNumber" : "0000000848924598321426",
-  "customerId" : 823924,
-  "balance" : 917899
-}, {
   "accountNumber" : "0000000150341995494710",
   "customerId" : 51208,
   "balance" : 20893983
@@ -343,21 +203,9 @@
   "customerId" : 321040,
   "balance" : 50877561
 }, {
-  "accountNumber" : "0000000839875912088737",
-  "customerId" : 805407,
-  "balance" : 303335
-}, {
   "accountNumber" : "0000000076137062540355",
   "customerId" : 138350,
   "balance" : 5835406
-}, {
-  "accountNumber" : "0000000307344370684707",
-  "customerId" : 354529,
-  "balance" : 720510
-}, {
-  "accountNumber" : "0000000946905943322193",
-  "customerId" : 360436,
-  "balance" : 495286
 }, {
   "accountNumber" : "0000000678912176630766",
   "customerId" : 153762,
@@ -366,10 +214,6 @@
   "accountNumber" : "0000000984842435411029",
   "customerId" : 202666,
   "balance" : 26110986
-}, {
-  "accountNumber" : "0000000641792308759961",
-  "customerId" : 784313,
-  "balance" : 969073
 }, {
   "accountNumber" : "0000000012571265322305",
   "customerId" : 133872,
@@ -399,10 +243,6 @@
   "customerId" : 736679,
   "balance" : 2010842
 }, {
-  "accountNumber" : "0000000916061486656579",
-  "customerId" : 614168,
-  "balance" : 101070
-}, {
   "accountNumber" : "0000000301990893571242",
   "customerId" : 971984,
   "balance" : 15317139
@@ -410,14 +250,6 @@
   "accountNumber" : "0000000776469106553638",
   "customerId" : 521941,
   "balance" : 8877768
-}, {
-  "accountNumber" : "0000000097055810030368",
-  "customerId" : 773209,
-  "balance" : 274297
-}, {
-  "accountNumber" : "0000000643934492509779",
-  "customerId" : 345765,
-  "balance" : 661582
 }, {
   "accountNumber" : "0000000301475061149108",
   "customerId" : 293857,
@@ -430,10 +262,6 @@
   "accountNumber" : "0000000432211925223643",
   "customerId" : 359759,
   "balance" : 3608829
-}, {
-  "accountNumber" : "0000000579965049279000",
-  "customerId" : 783031,
-  "balance" : 615875
 }, {
   "accountNumber" : "0000000974204129700649",
   "customerId" : 928548,
@@ -471,33 +299,13 @@
   "customerId" : 419509,
   "balance" : 6860398
 }, {
-  "accountNumber" : "0000000596506195318902",
-  "customerId" : 854704,
-  "balance" : 962389
-}, {
   "accountNumber" : "0000000222779651882073",
   "customerId" : 329453,
   "balance" : 18020319
 }, {
-  "accountNumber" : "0000000901227053668657",
-  "customerId" : 185475,
-  "balance" : 527370
-}, {
-  "accountNumber" : "0000000635630353675019",
-  "customerId" : 510163,
-  "balance" : 274513
-}, {
-  "accountNumber" : "0000000259378882830441",
-  "customerId" : 100900,
-  "balance" : 124168
-}, {
   "accountNumber" : "0000000846295528471061",
   "customerId" : 528623,
   "balance" : 3501122
-}, {
-  "accountNumber" : "0000000885692882939534",
-  "customerId" : 212005,
-  "balance" : 702403
 }, {
   "accountNumber" : "0000000431741150759431",
   "customerId" : 185475,
@@ -510,14 +318,6 @@
   "accountNumber" : "0000000444209441193289",
   "customerId" : 727286,
   "balance" : 39345197
-}, {
-  "accountNumber" : "0000000712782479541761",
-  "customerId" : 291912,
-  "balance" : 18725
-}, {
-  "accountNumber" : "0000000320460613587199",
-  "customerId" : 592343,
-  "balance" : 347328
 }, {
   "accountNumber" : "0000000456725820984941",
   "customerId" : 548546,
@@ -534,18 +334,6 @@
   "accountNumber" : "0000000928056665769750",
   "customerId" : 833071,
   "balance" : 6667844
-}, {
-  "accountNumber" : "0000000580335696642827",
-  "customerId" : 418328,
-  "balance" : 422782
-}, {
-  "accountNumber" : "0000000123656594690936",
-  "customerId" : 493286,
-  "balance" : 851845
-}, {
-  "accountNumber" : "0000000845444529165486",
-  "customerId" : 213602,
-  "balance" : 537713
 }, {
   "accountNumber" : "0000000960679015030784",
   "customerId" : 547219,
@@ -571,18 +359,6 @@
   "customerId" : 836940,
   "balance" : 2517537
 }, {
-  "accountNumber" : "0000000328900403244398",
-  "customerId" : 818603,
-  "balance" : 734893
-}, {
-  "accountNumber" : "0000000766783762738839",
-  "customerId" : 326607,
-  "balance" : 553911
-}, {
-  "accountNumber" : "0000000122600177864256",
-  "customerId" : 133872,
-  "balance" : 183230
-}, {
   "accountNumber" : "0000000159669891262092",
   "customerId" : 958956,
   "balance" : 73134847
@@ -594,10 +370,6 @@
   "accountNumber" : "0000000492063904410834",
   "customerId" : 369828,
   "balance" : 9881973
-}, {
-  "accountNumber" : "0000000120661772229647",
-  "customerId" : 929437,
-  "balance" : 344933
 }, {
   "accountNumber" : "0000000028641127332320",
   "customerId" : 696203,
@@ -631,33 +403,13 @@
   "customerId" : 727781,
   "balance" : 4030664
 }, {
-  "accountNumber" : "0000000818498826318787",
-  "customerId" : 169411,
-  "balance" : 417064
-}, {
   "accountNumber" : "0000000030506705323648",
   "customerId" : 306728,
   "balance" : 81909944
 }, {
-  "accountNumber" : "0000000283536404809638",
-  "customerId" : 95329,
-  "balance" : 52658
-}, {
-  "accountNumber" : "0000000025328773606048",
-  "customerId" : 258038,
-  "balance" : 811840
-}, {
   "accountNumber" : "0000000436416048557312",
   "customerId" : 127314,
   "balance" : 61636526
-}, {
-  "accountNumber" : "0000000556038998228453",
-  "customerId" : 317999,
-  "balance" : 617935
-}, {
-  "accountNumber" : "0000000380622974194321",
-  "customerId" : 777652,
-  "balance" : 11867
 }, {
   "accountNumber" : "0000000117636229672590",
   "customerId" : 526294,
@@ -683,14 +435,6 @@
   "customerId" : 107952,
   "balance" : 37512339
 }, {
-  "accountNumber" : "0000000756481945290292",
-  "customerId" : 730369,
-  "balance" : 382683
-}, {
-  "accountNumber" : "0000000484319327838084",
-  "customerId" : 831147,
-  "balance" : 639261
-}, {
   "accountNumber" : "0000000904527008165149",
   "customerId" : 226932,
   "balance" : 56557181
@@ -706,18 +450,6 @@
   "accountNumber" : "0000000042148685033751",
   "customerId" : 353900,
   "balance" : 22706902
-}, {
-  "accountNumber" : "0000000440381866406017",
-  "customerId" : 902641,
-  "balance" : 578493
-}, {
-  "accountNumber" : "0000000748179361973753",
-  "customerId" : 15499,
-  "balance" : 218403
-}, {
-  "accountNumber" : "0000000326372812928659",
-  "customerId" : 369165,
-  "balance" : 254100
 }, {
   "accountNumber" : "0000000900419332404669",
   "customerId" : 169411,
@@ -751,10 +483,6 @@
   "customerId" : 212005,
   "balance" : 8894302
 }, {
-  "accountNumber" : "0000000266911988897459",
-  "customerId" : 345507,
-  "balance" : 760488
-}, {
   "accountNumber" : "0000000624383851375317",
   "customerId" : 689249,
   "balance" : 50192471
@@ -767,14 +495,6 @@
   "customerId" : 647546,
   "balance" : 4845958
 }, {
-  "accountNumber" : "0000000708503627462524",
-  "customerId" : 577032,
-  "balance" : 585697
-}, {
-  "accountNumber" : "0000000716564066865446",
-  "customerId" : 212005,
-  "balance" : 489439
-}, {
   "accountNumber" : "0000000216366719622161",
   "customerId" : 753791,
   "balance" : 24947932
@@ -783,17 +503,9 @@
   "customerId" : 774165,
   "balance" : 41896691
 }, {
-  "accountNumber" : "0000000479593727600762",
-  "customerId" : 138350,
-  "balance" : 392792
-}, {
   "accountNumber" : "0000000534924054460612",
   "customerId" : 527598,
   "balance" : 7587251
-}, {
-  "accountNumber" : "0000000884675193286056",
-  "customerId" : 646624,
-  "balance" : 400201
 }, {
   "accountNumber" : "0000000361010037796808",
   "customerId" : 5825,
@@ -802,14 +514,6 @@
   "accountNumber" : "0000000406897068121664",
   "customerId" : 638108,
   "balance" : 4676302
-}, {
-  "accountNumber" : "0000000765886950745904",
-  "customerId" : 928548,
-  "balance" : 110642
-}, {
-  "accountNumber" : "0000000345764728795983",
-  "customerId" : 902641,
-  "balance" : 26391
 }, {
   "accountNumber" : "0000000115410023733620",
   "customerId" : 64460,
@@ -831,10 +535,6 @@
   "customerId" : 326607,
   "balance" : 4770667
 }, {
-  "accountNumber" : "0000000714278641690389",
-  "customerId" : 279143,
-  "balance" : 116072
-}, {
   "accountNumber" : "0000000306683990268766",
   "customerId" : 987958,
   "balance" : 4009283
@@ -842,10 +542,6 @@
   "accountNumber" : "0000000429911010028698",
   "customerId" : 446396,
   "balance" : 48420945
-}, {
-  "accountNumber" : "0000000698010555467036",
-  "customerId" : 180942,
-  "balance" : 699040
 }, {
   "accountNumber" : "0000000408912375451870",
   "customerId" : 424099,
@@ -862,10 +558,6 @@
   "accountNumber" : "0000000421782551376690",
   "customerId" : 695875,
   "balance" : 3417670
-}, {
-  "accountNumber" : "0000000822424457848208",
-  "customerId" : 306391,
-  "balance" : 299510
 }, {
   "accountNumber" : "0000000313917607169152",
   "customerId" : 736679,
@@ -887,21 +579,9 @@
   "customerId" : 414201,
   "balance" : 2929409
 }, {
-  "accountNumber" : "0000000507490787966926",
-  "customerId" : 991863,
-  "balance" : 761260
-}, {
-  "accountNumber" : "0000000613455409758450",
-  "customerId" : 935771,
-  "balance" : 683203
-}, {
   "accountNumber" : "0000000070905591754812",
   "customerId" : 679473,
   "balance" : 10021764
-}, {
-  "accountNumber" : "0000000549325896326017",
-  "customerId" : 138350,
-  "balance" : 333182
 }, {
   "accountNumber" : "0000000137843921317376",
   "customerId" : 849630,
@@ -911,14 +591,6 @@
   "customerId" : 583220,
   "balance" : 2227841
 }, {
-  "accountNumber" : "0000000642619723425855",
-  "customerId" : 789510,
-  "balance" : 506680
-}, {
-  "accountNumber" : "0000000664359009939467",
-  "customerId" : 20271,
-  "balance" : 576674
-}, {
   "accountNumber" : "0000000602732759481053",
   "customerId" : 380977,
   "balance" : 2523536
@@ -927,21 +599,9 @@
   "customerId" : 582476,
   "balance" : 2559115
 }, {
-  "accountNumber" : "0000000697293845722936",
-  "customerId" : 893752,
-  "balance" : 317699
-}, {
-  "accountNumber" : "0000000814176296218247",
-  "customerId" : 163213,
-  "balance" : 280344
-}, {
   "accountNumber" : "0000000522890060271388",
   "customerId" : 366139,
   "balance" : 9719458
-}, {
-  "accountNumber" : "0000000172386860710865",
-  "customerId" : 727781,
-  "balance" : 693154
 }, {
   "accountNumber" : "0000000079472749427403",
   "customerId" : 427216,
@@ -951,10 +611,6 @@
   "customerId" : 64460,
   "balance" : 9996026
 }, {
-  "accountNumber" : "0000000336322777114125",
-  "customerId" : 833071,
-  "balance" : 99596
-}, {
   "accountNumber" : "0000000915441423541815",
   "customerId" : 854704,
   "balance" : 6662062
@@ -963,14 +619,6 @@
   "customerId" : 900403,
   "balance" : 11123367
 }, {
-  "accountNumber" : "0000000232141310681972",
-  "customerId" : 768629,
-  "balance" : 937130
-}, {
-  "accountNumber" : "0000000598951584386939",
-  "customerId" : 307932,
-  "balance" : 569252
-}, {
   "accountNumber" : "0000000767172939255313",
   "customerId" : 638108,
   "balance" : 6134347
@@ -978,10 +626,6 @@
   "accountNumber" : "0000000577185707545492",
   "customerId" : 223579,
   "balance" : 94065273
-}, {
-  "accountNumber" : "0000000896352906096686",
-  "customerId" : 202666,
-  "balance" : 861527
 }, {
   "accountNumber" : "0000000945811053150733",
   "customerId" : 928548,
@@ -1031,25 +675,9 @@
   "customerId" : 768629,
   "balance" : 39194615
 }, {
-  "accountNumber" : "0000000995462508937708",
-  "customerId" : 103217,
-  "balance" : 510342
-}, {
-  "accountNumber" : "0000000414712658119516",
-  "customerId" : 316235,
-  "balance" : 633223
-}, {
   "accountNumber" : "0000000050543299633744",
   "customerId" : 61276,
   "balance" : 8661907
-}, {
-  "accountNumber" : "0000000014687384179986",
-  "customerId" : 647546,
-  "balance" : 280387
-}, {
-  "accountNumber" : "0000000100925560674650",
-  "customerId" : 169411,
-  "balance" : 732124
 }, {
   "accountNumber" : "0000000801074113950753",
   "customerId" : 813912,
@@ -1059,49 +687,17 @@
   "customerId" : 95183,
   "balance" : 43882488
 }, {
-  "accountNumber" : "0000000596789244862057",
-  "customerId" : 528623,
-  "balance" : 654851
-}, {
   "accountNumber" : "0000000472015824146307",
   "customerId" : 132185,
   "balance" : 46996330
-}, {
-  "accountNumber" : "0000000303296151630040",
-  "customerId" : 291912,
-  "balance" : 830942
 }, {
   "accountNumber" : "0000000115636475893807",
   "customerId" : 927356,
   "balance" : 53544211
 }, {
-  "accountNumber" : "0000000147686522783768",
-  "customerId" : 329453,
-  "balance" : 544397
-}, {
-  "accountNumber" : "0000000673920790117213",
-  "customerId" : 11754,
-  "balance" : 69319
-}, {
-  "accountNumber" : "0000000966463092484752",
-  "customerId" : 773209,
-  "balance" : 572233
-}, {
-  "accountNumber" : "0000000525757931575457",
-  "customerId" : 814755,
-  "balance" : 485728
-}, {
-  "accountNumber" : "0000000471067278032527",
-  "customerId" : 679473,
-  "balance" : 279070
-}, {
   "accountNumber" : "0000000062522093817575",
   "customerId" : 549378,
   "balance" : 4019994
-}, {
-  "accountNumber" : "0000000842229614438333",
-  "customerId" : 306997,
-  "balance" : 832964
 }, {
   "accountNumber" : "0000000205688787161314",
   "customerId" : 508070,
@@ -1114,18 +710,6 @@
   "accountNumber" : "0000000584993674851416",
   "customerId" : 523831,
   "balance" : 67477187
-}, {
-  "accountNumber" : "0000000731797459677008",
-  "customerId" : 919908,
-  "balance" : 33474
-}, {
-  "accountNumber" : "0000000155187314533028",
-  "customerId" : 731821,
-  "balance" : 712024
-}, {
-  "accountNumber" : "0000000539792155971915",
-  "customerId" : 513605,
-  "balance" : 575566
 }, {
   "accountNumber" : "0000000313678487539864",
   "customerId" : 55482,
@@ -1147,14 +731,6 @@
   "customerId" : 306997,
   "balance" : 34903461
 }, {
-  "accountNumber" : "0000000883968029274953",
-  "customerId" : 766795,
-  "balance" : 385633
-}, {
-  "accountNumber" : "0000000578208419728557",
-  "customerId" : 456588,
-  "balance" : 543245
-}, {
   "accountNumber" : "0000000930893357298714",
   "customerId" : 163943,
   "balance" : 17106118
@@ -1162,10 +738,6 @@
   "accountNumber" : "0000000206138984218558",
   "customerId" : 61276,
   "balance" : 97095263
-}, {
-  "accountNumber" : "0000000475878811333776",
-  "customerId" : 646624,
-  "balance" : 982740
 }, {
   "accountNumber" : "0000000841663998454989",
   "customerId" : 891817,
@@ -1179,10 +751,6 @@
   "customerId" : 893752,
   "balance" : 3496219
 }, {
-  "accountNumber" : "0000000412778995776297",
-  "customerId" : 344146,
-  "balance" : 165592
-}, {
   "accountNumber" : "0000000527361288000378",
   "customerId" : 461595,
   "balance" : 50969947
@@ -1194,10 +762,6 @@
   "accountNumber" : "0000000542947470613567",
   "customerId" : 682736,
   "balance" : 5744198
-}, {
-  "accountNumber" : "0000000577223169514661",
-  "customerId" : 258432,
-  "balance" : 760057
 }, {
   "accountNumber" : "0000000013089508444593",
   "customerId" : 617341,
@@ -1223,10 +787,6 @@
   "customerId" : 366139,
   "balance" : 3326218
 }, {
-  "accountNumber" : "0000000667090433411001",
-  "customerId" : 772534,
-  "balance" : 296506
-}, {
   "accountNumber" : "0000000776566824315499",
   "customerId" : 831147,
   "balance" : 75225282
@@ -1251,14 +811,6 @@
   "customerId" : 766795,
   "balance" : 9326791
 }, {
-  "accountNumber" : "0000000892513243042932",
-  "customerId" : 380977,
-  "balance" : 308260
-}, {
-  "accountNumber" : "0000000731792890346340",
-  "customerId" : 67957,
-  "balance" : 396188
-}, {
   "accountNumber" : "0000000089399002732244",
   "customerId" : 521941,
   "balance" : 1491989
@@ -1279,21 +831,9 @@
   "customerId" : 789510,
   "balance" : 8156280
 }, {
-  "accountNumber" : "0000000067870586718328",
-  "customerId" : 360436,
-  "balance" : 202775
-}, {
-  "accountNumber" : "0000000264659977172937",
-  "customerId" : 84844,
-  "balance" : 699588
-}, {
   "accountNumber" : "0000000659511032767753",
   "customerId" : 460370,
   "balance" : 60768555
-}, {
-  "accountNumber" : "0000000556654904771532",
-  "customerId" : 783031,
-  "balance" : 659391
 }, {
   "accountNumber" : "0000000400273337194637",
   "customerId" : 258735,
@@ -1302,14 +842,6 @@
   "accountNumber" : "0000000124598048933569",
   "customerId" : 132523,
   "balance" : 76214895
-}, {
-  "accountNumber" : "0000000863622300937314",
-  "customerId" : 742137,
-  "balance" : 913595
-}, {
-  "accountNumber" : "0000000083348201421868",
-  "customerId" : 774165,
-  "balance" : 411841
 }, {
   "accountNumber" : "0000000468260140382043",
   "customerId" : 814755,
@@ -1331,18 +863,6 @@
   "customerId" : 735476,
   "balance" : 39043343
 }, {
-  "accountNumber" : "0000000975924993158351",
-  "customerId" : 665760,
-  "balance" : 241414
-}, {
-  "accountNumber" : "0000000110075310678986",
-  "customerId" : 674131,
-  "balance" : 709911
-}, {
-  "accountNumber" : "0000000727381995373937",
-  "customerId" : 260132,
-  "balance" : 282931
-}, {
   "accountNumber" : "0000000169816050668497",
   "customerId" : 531728,
   "balance" : 6992008
@@ -1362,10 +882,6 @@
   "accountNumber" : "0000000479810754265340",
   "customerId" : 848842,
   "balance" : 6694349
-}, {
-  "accountNumber" : "0000000482277889153290",
-  "customerId" : 42994,
-  "balance" : 36348
 }, {
   "accountNumber" : "0000000917761805661955",
   "customerId" : 695875,
@@ -1387,14 +903,6 @@
   "customerId" : 784223,
   "balance" : 29518063
 }, {
-  "accountNumber" : "0000000699513700660936",
-  "customerId" : 814676,
-  "balance" : 571522
-}, {
-  "accountNumber" : "0000000626600369689401",
-  "customerId" : 870656,
-  "balance" : 163663
-}, {
   "accountNumber" : "0000000294420171220214",
   "customerId" : 961815,
   "balance" : 5621848
@@ -1415,10 +923,6 @@
   "customerId" : 814755,
   "balance" : 57155240
 }, {
-  "accountNumber" : "0000000964654156500536",
-  "customerId" : 370101,
-  "balance" : 266722
-}, {
   "accountNumber" : "0000000735233874211646",
   "customerId" : 896698,
   "balance" : 33598492
@@ -1431,45 +935,17 @@
   "customerId" : 646624,
   "balance" : 21460410
 }, {
-  "accountNumber" : "0000000484416224524921",
-  "customerId" : 169411,
-  "balance" : 453378
-}, {
-  "accountNumber" : "0000000037724103402452",
-  "customerId" : 279143,
-  "balance" : 501874
-}, {
-  "accountNumber" : "0000000423063814760311",
-  "customerId" : 898555,
-  "balance" : 81636
-}, {
-  "accountNumber" : "0000000071200982747433",
-  "customerId" : 674131,
-  "balance" : 799354
-}, {
   "accountNumber" : "0000000783151549678941",
   "customerId" : 528623,
   "balance" : 5962090
-}, {
-  "accountNumber" : "0000000477911946744792",
-  "customerId" : 623832,
-  "balance" : 866663
 }, {
   "accountNumber" : "0000000167367575203181",
   "customerId" : 878788,
   "balance" : 89909781
 }, {
-  "accountNumber" : "0000000881763393889849",
-  "customerId" : 817242,
-  "balance" : 623249
-}, {
   "accountNumber" : "0000000131131580009305",
   "customerId" : 920360,
   "balance" : 30063869
-}, {
-  "accountNumber" : "0000000174980747779194",
-  "customerId" : 212005,
-  "balance" : 874481
 }, {
   "accountNumber" : "0000000608360209981155",
   "customerId" : 250366,
@@ -1479,17 +955,9 @@
   "customerId" : 317999,
   "balance" : 1949427
 }, {
-  "accountNumber" : "0000000460593115321619",
-  "customerId" : 223579,
-  "balance" : 147929
-}, {
   "accountNumber" : "0000000209689308310935",
   "customerId" : 96320,
   "balance" : 17247737
-}, {
-  "accountNumber" : "0000000081549368349863",
-  "customerId" : 784223,
-  "balance" : 314649
 }, {
   "accountNumber" : "0000000806646458527555",
   "customerId" : 306997,
@@ -1499,17 +967,9 @@
   "customerId" : 430647,
   "balance" : 91965231
 }, {
-  "accountNumber" : "0000000473063446882913",
-  "customerId" : 682725,
-  "balance" : 25757
-}, {
   "accountNumber" : "0000000203767299073382",
   "customerId" : 316235,
   "balance" : 19820551
-}, {
-  "accountNumber" : "0000000288134543951987",
-  "customerId" : 89344,
-  "balance" : 426465
 }, {
   "accountNumber" : "0000000894389009822017",
   "customerId" : 773557,

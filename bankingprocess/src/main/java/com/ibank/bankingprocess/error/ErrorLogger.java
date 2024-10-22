@@ -1,4 +1,4 @@
-package com.ibank.bankingprocess.process.error;
+package com.ibank.bankingprocess.error;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

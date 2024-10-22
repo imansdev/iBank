@@ -11,9 +11,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 import com.ibank.bankingprocess.dto.AccountInputDTO;
+import com.ibank.bankingprocess.error.ErrorLogger;
 import com.ibank.bankingprocess.service.AccountService;
 import com.ibank.bankingprocess.utils.EncryptionUtil;
-import com.ibank.bankingprocess.process.error.ErrorLogger;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validator;
 
